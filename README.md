@@ -1,1 +1,11 @@
 # System-Analysis-and-Design
+
+The DriverPass project focused on designing a web-based system for a client called DriverPass, a company that wanted to help students prepare for driving tests and schedule driving lessons online. The system was designed to support multiple users, including students, instructors, and administrators, and to provide features such as lesson scheduling, practice materials, and system management. The goal was to translate the client’s business needs into a clear, structured system design that could support both learning and scheduling in a secure and organized way.
+
+One area I did particularly well was converting the client’s requirements into clear documentation and UML diagrams that showed how the system would function. I accurately identified the main users, their roles, and how they interact with the system, and I connected those roles to security and access controls. This helped ensure that the system design matched the client’s expectations and supported real-world workflows.
+
+If I could revise one part of my work, I would improve the consistency and clarity of the diagrams and written requirements. I would standardize terminology across all documents, simplify complex flows, and add brief explanations for edge cases such as cancellations or scheduling conflicts. These changes would make the design easier to understand for both technical and nontechnical stakeholders.
+
+User needs were interpreted by carefully reviewing the interview transcript and requirements, then mapping those needs directly into system features such as scheduling, role-based access, and administrative controls. Considering user needs is critical because a system that ignores how people actually work can fail even if it is technically sound. By focusing on user needs, the design becomes more usable, effective, and more likely to be adopted successfully.
+
+When designing software, I focus on understanding the problem before jumping into solutions. My approach includes gathering requirements, modeling workflows with diagrams, defining system entities, and reviewing designs iteratively. In the future, I would continue using techniques such as user stories, UML diagrams, prototyping, and feedback cycles to ensure the system design remains aligned with stakeholder needs and is both functional and user-centered.
